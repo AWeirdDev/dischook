@@ -36,5 +36,3 @@ wh.send("Hello again!", username="Happy Bot", embeds=[embed, embed2])
 ### Find more examples [here](), including how to send **components** using webhooks.
 
 ***
-
-![dischookholder](https://user-images.githubusercontent.com/90096971/177905091-5b432c07-4d0f-444b-a209-ce527861b581.png)
